@@ -1,6 +1,6 @@
 # sartbloklari
 
-A new Flutter project.
+Flutter diline giriş için basit şart bloğu örneği
 
 ## Getting Started
 

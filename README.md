@@ -2,6 +2,8 @@
 
 Flutter diline giriş için basit şart bloğu örneği
 
+17.03.2023 - Class ve Constructor örnekleri yapıldı.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
